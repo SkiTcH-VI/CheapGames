@@ -7,6 +7,7 @@ namespace GameStore
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
+            //routes.MapPageRoute(null, "login/{page}", "~/Pages/Login.aspx");
             routes.MapPageRoute(null, "list/{category}/{page}",
                                         "~/Pages/Listing.aspx");
             routes.MapPageRoute(null, "list/{page}", "~/Pages/Listing.aspx"); 

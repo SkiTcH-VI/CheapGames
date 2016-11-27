@@ -11,7 +11,7 @@ namespace GameStore.Pages
     public partial class Listing : System.Web.UI.Page
     {
         private Repository repository = new Repository();
-        private int pageSize = 4;
+        private int pageSize = 8;
 
         protected int CurrentPage
         {
