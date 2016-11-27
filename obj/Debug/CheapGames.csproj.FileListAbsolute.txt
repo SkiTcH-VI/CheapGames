@@ -16,6 +16,7 @@ C:\Users\user3\Downloads\CheapGames\CheapGames\bin\System.Web.Optimization.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.dll
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.pdb
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\CheapGames.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\GameStore.dll
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\GameStore.pdb
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\Antlr3.Runtime.dll
@@ -50,3 +51,5 @@ D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\Newtonsoft.Json
 D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\System.Web.Optimization.xml
 D:\Документы\Visual Studio 2015\Projects\CheapGames\obj\Debug\GameStore.dll
 D:\Документы\Visual Studio 2015\Projects\CheapGames\obj\Debug\GameStore.pdb
+=======
+>>>>>>> origin/master
