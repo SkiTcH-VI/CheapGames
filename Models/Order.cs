@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 
-namespace GameStore.Models
+namespace CheapGames.Models
 {
     public class Order
     {

@@ -1,17 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using GameStore.Models;
-using GameStore.Models.Repository;
+using CheapGames.Models;
+using CheapGames.Models.Repository;
 using System.Linq;
-using GameStore.Pages.Helpers;
+using CheapGames.Pages.Helpers;
 using System.Web.Routing;
 
-namespace GameStore.Pages
+namespace CheapGames.Pages
 {
     public partial class Listing : System.Web.UI.Page
     {
         private Repository repository = new Repository();
-        private int pageSize = 8;
+        private int pageSize = 6;
 
         protected int CurrentPage
         {

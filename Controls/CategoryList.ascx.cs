@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Routing;
-using GameStore.Models.Repository;
+using CheapGames.Models.Repository;
 
-namespace GameStore.Controls
+namespace CheapGames.Controls
 {
     public partial class CategoryList : System.Web.UI.UserControl
     {

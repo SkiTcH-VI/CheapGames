@@ -2,7 +2,7 @@
 using System.Data.Entity;
 using System.Linq;
 
-namespace GameStore.Models.Repository
+namespace CheapGames.Models.Repository
 {
     public class Repository
     {

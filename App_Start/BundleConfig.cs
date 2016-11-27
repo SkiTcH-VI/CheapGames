@@ -1,6 +1,6 @@
 ﻿using System.Web.Optimization;
 
-namespace GameStore
+namespace CheapGames
 {
     public class BundleConfig
     {

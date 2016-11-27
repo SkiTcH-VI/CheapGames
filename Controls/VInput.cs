@@ -4,11 +4,11 @@ using System.Reflection;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace GameStore.Controls
+namespace CheapGames.Controls
 {
     public class VInput : WebControl
     {
-        private string nspace = "GameStore.Models";
+        private string nspace = "CheapGames.Models";
         private string model = "Order";
 
         public string Namespace

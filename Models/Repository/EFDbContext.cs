@@ -1,12 +1,12 @@
 ﻿using System.Web;
 using System.Data.Entity;
 
-namespace GameStore.Models.Repository
+namespace CheapGames.Models.Repository
 {
     public class EFDbContext : DbContext
     {
         public EFDbContext()
-            : base(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=" + HttpContext.Current.Server.MapPath("~/App_Data/GameStore.mdf")
+            : base(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=" + HttpContext.Current.Server.MapPath("~/App_Data/CheapGames.mdf")
                     + ";Integrated Security=True")
         {  }
 

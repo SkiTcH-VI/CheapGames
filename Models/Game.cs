@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GameStore.Models
+namespace CheapGames.Models
 {
     public class Game
     {

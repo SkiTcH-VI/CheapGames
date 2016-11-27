@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web.Routing;
 
-namespace GameStore.Pages.Admin
+namespace CheapGames.Pages.Admin
 {
     public partial class Admin : System.Web.UI.MasterPage
     {

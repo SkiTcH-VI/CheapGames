@@ -1,8 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Games.aspx.cs" Inherits="GameStore.Pages.Admin.Games"
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Games.aspx.cs" Inherits="CheapGames.Pages.Admin.Games"
     MasterPageFile="~/Pages/Admin/Admin.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <asp:ListView ID="ListView1" ItemType="GameStore.Models.Game" SelectMethod="GetGames"
+    <asp:ListView ID="ListView1" ItemType="CheapGames.Models.Game" SelectMethod="GetGames"
         DataKeyNames="GameId" UpdateMethod="UpdateGame" DeleteMethod="DeleteGame"
         InsertMethod="InsertGame" InsertItemPosition="LastItem" EnableViewState="false"
         runat="server">

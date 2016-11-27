@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using GameStore.Models;
-using GameStore.Models.Repository;
-using GameStore.Pages.Helpers;
+using CheapGames.Models;
+using CheapGames.Models.Repository;
+using CheapGames.Pages.Helpers;
 using System.Web.ModelBinding;
 
-namespace GameStore.Pages
+namespace CheapGames.Pages
 {
     public partial class Checkout : System.Web.UI.Page
     {

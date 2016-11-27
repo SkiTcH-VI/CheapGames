@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="CartSummary.ascx.cs" Inherits="GameStore.Controls.CartSummary" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="CartSummary.ascx.cs" Inherits="CheapGames.Controls.CartSummary" %>
 
 <div id="cartSummary">
     <span class="caption">
@@ -6,5 +6,5 @@
         <span id="csQuantity" runat="server"></span> товарів,
         <span id="csTotal" runat="server"></span>
     </span>
-    <a id="csLink" runat="server">Кошик</a>
+    <a id="csLink" class="btn" runat="server">Кошик <span class="badge">7</span></a>
 </div>

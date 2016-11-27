@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CartView.aspx.cs" Inherits="GameStore.Pages.CartView"
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CartView.aspx.cs" Inherits="CheapGames.Pages.CartView"
     MasterPageFile="~/Pages/Store.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="bodyContent" runat="server">
@@ -14,7 +14,7 @@
                 </tr>
             </thead>
             <tbody>
-                <asp:Repeater ID="Repeater1" ItemType="GameStore.Models.CartLine"
+                <asp:Repeater ID="Repeater1" ItemType="CheapGames.Models.CartLine"
                     SelectMethod="GetCartLines" runat="server" EnableViewState="false">
                     <ItemTemplate>
                         <tr>

@@ -1,17 +1,17 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Listing.aspx.cs" Inherits="GameStore.Pages.Listing"
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Listing.aspx.cs" Inherits="CheapGames.Pages.Listing"
     MasterPageFile="~/Pages/Store.Master" %>
 <%@ Import Namespace="System.Web.Routing" %>
 
 <asp:Content ContentPlaceHolderID="bodyContent" runat="server">
     <div id="content">
-        <asp:Repeater ItemType="GameStore.Models.Game"
+        <asp:Repeater ItemType="CheapGames.Models.Game"
             SelectMethod="GetGames" runat="server">
             <ItemTemplate>
                 <div class="item">
                     <h3><%# Item.Name %></h3>
                     <%# Item.Description %>
                     <h4><%# Item.Price.ToString("c") %></h4>
-                    <button name="add" type="submit" value="<%# Item.GameId %>">
+                    <button name="add" type="submit" class="btn btn-xs" value="<%# Item.GameId %>">
                         Добавити в кошик
                     </button>
                 </div>

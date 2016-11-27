@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
-using GameStore.Models;
+using CheapGames.Models;
 using System.Web.Routing;
-using GameStore.Pages.Helpers;
+using CheapGames.Pages.Helpers;
 
-namespace GameStore.Controls
+namespace CheapGames.Controls
 {
     public partial class CartSummary : System.Web.UI.UserControl
     {

@@ -15,3 +15,38 @@ C:\Users\user3\Downloads\CheapGames\CheapGames\bin\Newtonsoft.Json.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\bin\System.Web.Optimization.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.dll
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.pdb
+C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\CheapGames.csprojResolveAssemblyReference.cache
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\GameStore.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\GameStore.pdb
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\Antlr3.Runtime.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\EntityFramework.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\EntityFramework.SqlServer.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\Newtonsoft.Json.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\System.Web.Optimization.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\WebGrease.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\Antlr3.Runtime.pdb
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\EntityFramework.xml
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\EntityFramework.SqlServer.xml
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\Newtonsoft.Json.xml
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\System.Web.Optimization.xml
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\obj\Debug\CheapGames.csprojResolveAssemblyReference.cache
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.dll
+C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.pdb
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\GameStore.dll.config
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\GameStore.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\GameStore.pdb
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\Antlr3.Runtime.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\EntityFramework.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\EntityFramework.SqlServer.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\Microsoft.Web.Infrastructure.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\Newtonsoft.Json.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\System.Web.Optimization.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\WebGrease.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\Antlr3.Runtime.pdb
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\EntityFramework.xml
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\EntityFramework.SqlServer.xml
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\Newtonsoft.Json.xml
+D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\System.Web.Optimization.xml
+D:\Документы\Visual Studio 2015\Projects\CheapGames\obj\Debug\GameStore.dll
+D:\Документы\Visual Studio 2015\Projects\CheapGames\obj\Debug\GameStore.pdb

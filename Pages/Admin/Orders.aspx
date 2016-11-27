@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Orders.aspx.cs" Inherits="GameStore.Pages.Admin.Orders"
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Orders.aspx.cs" Inherits="CheapGames.Pages.Admin.Orders"
      MasterPageFile="~/Pages/Admin/Admin.Master" EnableViewState="false" %>
 
 <asp:Content ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -12,7 +12,7 @@
                 <th></th>
             </tr>
             <asp:Repeater ID="Repeater1" runat="server" SelectMethod="GetOrders"
-                ItemType="GameStore.Models.Order">
+                ItemType="CheapGames.Models.Order">
                 <ItemTemplate>
                     <tr>
                         <td><%#: Item.Name %></td>

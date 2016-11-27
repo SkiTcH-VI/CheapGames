@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.ModelBinding;
-using GameStore.Models;
-using GameStore.Models.Repository;
+using CheapGames.Models;
+using CheapGames.Models.Repository;
 
-namespace GameStore.Pages.Admin
+namespace CheapGames.Pages.Admin
 {
     public partial class Orders : System.Web.UI.Page
     {

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using GameStore.Models;
-using GameStore.Models.Repository;
+using CheapGames.Models;
+using CheapGames.Models.Repository;
 using System.Web.ModelBinding;
 
-namespace GameStore.Pages.Admin
+namespace CheapGames.Pages.Admin
 {
     public partial class Games : System.Web.UI.Page
     {

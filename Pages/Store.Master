@@ -1,11 +1,12 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Store.master.cs" Inherits="GameStore.Pages.Store" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Store.master.cs" Inherits="CheapGames.Pages.Store" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>CheapGames - дешево і сердито</title>
+    <title>CheapGames</title>
     <link rel="stylesheet" href="/Content/Styles.css" />
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
     <%: System.Web.Optimization.Scripts.Render("~/bundles/validation") %>
 </head>
 <body>
@@ -13,7 +14,7 @@
         <div>
             <div id="header">
                 <GS:cartsummary runat="server" />
-                <div class="title">CheapGames - </div>
+                <div class="title">CheapGames - дешево і сердито</div>
             </div>
             <div id="categories">
                 <GS:CategoryLinks runat="server" />
