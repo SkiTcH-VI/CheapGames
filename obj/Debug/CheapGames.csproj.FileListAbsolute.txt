@@ -16,7 +16,6 @@ C:\Users\user3\Downloads\CheapGames\CheapGames\bin\System.Web.Optimization.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.dll
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.pdb
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\CheapGames.csprojResolveAssemblyReference.cache
-<<<<<<< HEAD
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\GameStore.dll
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\GameStore.pdb
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\Antlr3.Runtime.dll
@@ -51,5 +50,21 @@ D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\Newtonsoft.Json
 D:\Документы\Visual Studio 2015\Projects\CheapGames\bin\System.Web.Optimization.xml
 D:\Документы\Visual Studio 2015\Projects\CheapGames\obj\Debug\GameStore.dll
 D:\Документы\Visual Studio 2015\Projects\CheapGames\obj\Debug\GameStore.pdb
-=======
->>>>>>> origin/master
+C:\Users\SkiTcH\Desktop\CheapGames\bin\Antlr3.Runtime.dll
+C:\Users\SkiTcH\Desktop\CheapGames\bin\EntityFramework.dll
+C:\Users\SkiTcH\Desktop\CheapGames\bin\EntityFramework.SqlServer.dll
+C:\Users\SkiTcH\Desktop\CheapGames\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SkiTcH\Desktop\CheapGames\bin\Newtonsoft.Json.dll
+C:\Users\SkiTcH\Desktop\CheapGames\bin\System.Web.Optimization.dll
+C:\Users\SkiTcH\Desktop\CheapGames\bin\WebGrease.dll
+C:\Users\SkiTcH\Desktop\CheapGames\bin\Antlr3.Runtime.pdb
+C:\Users\SkiTcH\Desktop\CheapGames\bin\EntityFramework.xml
+C:\Users\SkiTcH\Desktop\CheapGames\bin\EntityFramework.SqlServer.xml
+C:\Users\SkiTcH\Desktop\CheapGames\bin\Newtonsoft.Json.xml
+C:\Users\SkiTcH\Desktop\CheapGames\bin\System.Web.Optimization.xml
+C:\Users\SkiTcH\Desktop\CheapGames\obj\Debug\CheapGames.csprojResolveAssemblyReference.cache
+C:\Users\SkiTcH\Desktop\CheapGames\bin\CheapGames.dll.config
+C:\Users\SkiTcH\Desktop\CheapGames\bin\CheapGames.dll
+C:\Users\SkiTcH\Desktop\CheapGames\bin\CheapGames.pdb
+C:\Users\SkiTcH\Desktop\CheapGames\obj\Debug\CheapGames.dll
+C:\Users\SkiTcH\Desktop\CheapGames\obj\Debug\CheapGames.pdb

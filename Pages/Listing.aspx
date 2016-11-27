@@ -11,11 +11,7 @@
                     <h3><%# Item.Name %></h3>
                     <%# Item.Description %>
                     <h4><%# Item.Price.ToString("c") %></h4>
-<<<<<<< HEAD
                     <button name="add" type="submit" class="btn btn-xs" value="<%# Item.GameId %>">
-=======
-                    <button name="add" type="submit" class="btn" value="<%# Item.GameId %>">
->>>>>>> origin/master
                         Добавити в кошик
                     </button>
                 </div>

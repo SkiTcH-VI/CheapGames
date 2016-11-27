@@ -10,12 +10,14 @@ namespace CheapGames.Pages
 {
     public partial class Listing : System.Web.UI.Page
     {
+
         private Repository repository = new Repository();
         private int pageSize = 6;
 
         protected int CurrentPage
         {
-            get {
+            get
+            {
                 int page;
                 page = GetPageFromRequest();
                 return page > MaxPage ? MaxPage : page;
@@ -24,7 +26,8 @@ namespace CheapGames.Pages
 
         protected int MaxPage
         {
-            get {
+            get
+            {
                 int prodCount = FilterGames().Count();
                 return (int)Math.Ceiling((decimal)prodCount / pageSize);
             }
