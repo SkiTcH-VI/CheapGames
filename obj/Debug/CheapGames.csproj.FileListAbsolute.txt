@@ -15,3 +15,4 @@ C:\Users\user3\Downloads\CheapGames\CheapGames\bin\Newtonsoft.Json.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\bin\System.Web.Optimization.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.dll
 C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\GameStore.pdb
+C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\CheapGames.csprojResolveAssemblyReference.cache
