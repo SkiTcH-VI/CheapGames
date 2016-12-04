@@ -5,8 +5,8 @@
     <div id="content">
 
         <div id="checkoutForm" class="checkout" runat="server">
-            <h2>Оформить заказ</h2>
-            Пожалуйста, введите свои данные, и мы отправим Ваш товар прямо сейчас!
+            <h2>Оформити замовлення</h2>
+            Будь ласка, введіть свої дані і ми відправим Ваш товар негайно!(ні)
 
         <div id="errors" data-valmsg-summary="true">
             <ul>

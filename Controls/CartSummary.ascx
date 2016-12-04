@@ -6,5 +6,5 @@
         <span id="csQuantity" runat="server"></span> товарів,
         <span id="csTotal" runat="server"></span>
     </span>
-    <a id="csLink" class="btn" runat="server">Кошик <span class="badge">7</span></a>
+    <a id="csLink" class="btn" runat="server">Кошик</a>
 </div>

@@ -6,7 +6,7 @@ namespace CheapGames.Models.Repository
     public class EFDbContext : DbContext
     {
         public EFDbContext()
-            : base(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=" + HttpContext.Current.Server.MapPath("~/App_Data/CheapGames.mdf")
+            : base(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + HttpContext.Current.Server.MapPath("~/App_Data/CheapGames.mdf")
                     + ";Integrated Security=True")
         {  }
 

@@ -18,6 +18,7 @@ namespace CheapGames
 
             routes.MapPageRoute("admin_orders", "admin/orders", "~/Pages/Admin/Orders.aspx");
             routes.MapPageRoute("admin_games", "admin/games", "~/Pages/Admin/Games.aspx");
+            routes.MapPageRoute("login", "login", "~/Pages/Login.aspx");
         }
     }
 }

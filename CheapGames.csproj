@@ -126,6 +126,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Styles.css" />
+    <Content Include="Controls\LoginButton.ascx" />
     <Content Include="Controls\CartSummary.ascx" />
     <Content Include="Controls\CategoryList.ascx" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -164,6 +165,13 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controls\LoginButton.ascx.cs">
+      <DependentUpon>LoginButton.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\LoginButton.ascx.designer.cs">
+      <DependentUpon>LoginButton.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Controls\CartSummary.ascx.cs">
       <DependentUpon>CartSummary.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
