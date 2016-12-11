@@ -9,7 +9,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <h1>Хватить: адмін-панель</h1>
+        <h1>CheapGames: адмін-панель</h1>
         <div class="adminContent">
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
 

@@ -148,6 +148,8 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\CheapGames - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\CheapGames - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
     <Content Include="Pages\Login.aspx" />
     <Content Include="Scripts\bootstrap.js" />

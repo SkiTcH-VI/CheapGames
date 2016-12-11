@@ -26,8 +26,8 @@
                 <td><%# Item.Category %></td>
                 <td><%# Item.Price.ToString("c") %></td>
                 <td>
-                    <asp:Button ID="Button1" CommandName="Edit" Text="Изменить" runat="server" />
-                    <asp:Button ID="Button2" CommandName="Delete" Text="Удалить" runat="server" />
+                    <asp:Button ID="Button1" CommandName="Edit" Text="Змінити" runat="server" />
+                    <asp:Button ID="Button2" CommandName="Delete" Text="Видалити" runat="server" />
                 </td>
             </tr>
         </ItemTemplate>

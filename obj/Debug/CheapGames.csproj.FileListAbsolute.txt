@@ -10,7 +10,6 @@ C:\Users\user3\Downloads\CheapGames\CheapGames\bin\EntityFramework.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\bin\EntityFramework.SqlServer.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\bin\Newtonsoft.Json.xml
 C:\Users\user3\Downloads\CheapGames\CheapGames\bin\System.Web.Optimization.xml
-C:\Users\user3\Downloads\CheapGames\CheapGames\obj\Debug\CheapGames.csprojResolveAssemblyReference.cache
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\GameStore.dll
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\GameStore.pdb
 C:\Users\user.STEP.031\Downloads\CheapGames\CheapGames\bin\Antlr3.Runtime.dll
