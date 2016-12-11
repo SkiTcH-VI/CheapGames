@@ -148,8 +148,11 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Properties\PublishProfiles\CheapGames - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\CheapGames - FTP %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\CheapGames - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\CheapGames - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\CheapGames20161211014148 - Web Deploy %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\CheapGames20161211014148 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
     <Content Include="Pages\Login.aspx" />
     <Content Include="Scripts\bootstrap.js" />
@@ -162,7 +165,9 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
